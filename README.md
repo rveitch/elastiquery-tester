@@ -1,4 +1,4 @@
-# Elastic Query Tester
+# ElastiQuery Tester
 JSON-based Elasticsearch DSL query tester for Wordpress and ElasticPress.
 
 ![screenshot](https://raw.githubusercontent.com/rveitch/elastiquery-tester/master/assets/screenshot.png)
