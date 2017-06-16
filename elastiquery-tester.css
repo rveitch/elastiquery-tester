@@ -1,0 +1,29 @@
+table#ep-ajax-table thead {
+  background-color: #FFF;
+}
+table#ep-ajax-table thead th {
+  min-width: 50px;
+  text-align: center;
+}
+table#ep-ajax-table thead .eqt-rw--1 {
+  width: 10%;
+	max-width: 75px !important;
+}
+table#ep-ajax-table thead .eqt-rw--2,
+table#ep-ajax-table thead .eqt-rw--3,
+table#ep-ajax-table thead .eqt-rw--4 {
+  /*width: 33%;*/
+}
+table#ep-ajax-table tbody tr {
+  padding: 5px 0;
+  border-bottom: 1px solid #FFF;
+}
+table#ep-ajax-table tbody tr:nth-of-type(odd) {
+  background-color: #E9E9E9;
+}
+table#ep-ajax-table tbody td {
+  padding: 0 10px;
+}
+table#ep-ajax-table .eqt-rw--1 {
+  text-align: center;
+}
